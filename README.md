@@ -11,3 +11,9 @@ I'm used to beinga able to open a terminal quickly with CTRL-ALT-T in Ubuntu, bu
 My next big task is to optimize performance of this laptop with [page table compression](https://haydenjames.io/pinebook-pro-my-first-impressions-and-setup-tips/)
 
 [More about this laptop](https://youtu.be/EoIfSnFCs84)
+
+------------------------------------------------------
+
+I've found a workaround for an Emacs crash bug with KDE [here](https://discuss.getsol.us/d/5252-undefined-color-window-foreground-doom-emacs), potentially making this computer one step closer to being  a fully usable laptop!
+
+I've had a very, very good experience with the default KDE apps, and I've had a great experience using KMail, Kontact, and Kleopatra for email.
