@@ -16,4 +16,11 @@ My next big task is to optimize performance of this laptop with [page table comp
 
 I've found a workaround for an Emacs crash bug with KDE [here](https://discuss.getsol.us/d/5252-undefined-color-window-foreground-doom-emacs), potentially making this computer one step closer to being  a fully usable laptop!
 
+```
+I have the same problem with normal Emacs on Solus. This is what worked for me: create a file named .Xresources in your home directory and put the following line in it (depends on your theme): *.WINDOW_FOREGROUND: white
+After that execute xrdb ~/.Xresources in a Terminal.
+
+If you are able to start Emacs after this, you have to make sure xrdb ~/.Xresources is executed on every startup by creating a corresponding startup application.
+```
+
 I've had a very, very good experience with the default KDE apps, and I've had a great experience using KMail, Kontact, and Kleopatra for email.
