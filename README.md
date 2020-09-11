@@ -1,4 +1,4 @@
-# yaquake_notes_pinebook_pro
+# Pinebook Pro Setup
 
 So, I've been loving my [Pinebook pro](https://www.pine64.org/pinebook-pro/) so far, but my biggest issue with [Manjaro](https://www.pine64.org/pinebook-pro/) [arch](https://www.archlinux.org/) has been that there's no keyboard shortcut to open up a terminal!
 
