@@ -10,6 +10,8 @@ I'm used to being able to open a terminal quickly with CTRL-ALT-T in Ubuntu, but
 
 My next big task is to optimize performance of this laptop with [page table compression](https://haydenjames.io/pinebook-pro-my-first-impressions-and-setup-tips/)
 
+[More Pinebook Pro Setup and usage tips](https://louisabraham.github.io/articles/pinebook-pro-setup.html)
+
 [More about this laptop](https://youtu.be/EoIfSnFCs84)
 
 ------------------------------------------------------
